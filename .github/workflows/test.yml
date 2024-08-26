@@ -5,8 +5,9 @@ name: Test workflow
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
 on:
-  workflow_dispatch:
-    # Inputs the workflow accepts.
+  push:
+    # only trigger on branches, not on tags
+    branches: '**'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

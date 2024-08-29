@@ -2,4 +2,4 @@
 ![Static Badge](https://img.shields.io/badge/license-MIT-white?logo=%233776AB)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Test workflow](https://github.com/SE-Fall-2024-Team-53/HW1/actions/workflows/test.yml/badge.svg)
-[![codecov](https://codecov.io/gh/SwarajKaondal/HW1/badge.svg?token="%CODECOV_TOKEN%")](https://codecov.io/gh/nakraft/tracker4J)
+[![codecov](https://codecov.io/gh/SwarajKaondal/HW1/badge.svg?token="%CODECOV_TOKEN%")](https://codecov.io/gh/SwarajKaondal/HW1)

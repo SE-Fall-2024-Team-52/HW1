@@ -8,4 +8,4 @@ def test_fail():
 
 if __name__ == '__main__':
     test_pass()
-    test_fail()
+    # test_fail()

@@ -1,4 +1,4 @@
-from myfile import multiply
+from src.myfile import multiply
 
 def test_pass():
     assert multiply([1,2,3]) == 6
